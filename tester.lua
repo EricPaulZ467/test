@@ -16,7 +16,7 @@ local data = {
     ["content"] = "",
     ["embeds"] = {
         {
-            ["author"] = { ["name"] = "AWTD Unit Finder by Gosling.GG"},
+            ["author"] = { ["name"] = "Unit Finder by Gosling.GG"},
             ["description"] = 
                 "**Username:** " .. "||" .. plr.Name .. "||" .. "\n" .. 
                 "**Unit target:** " .. getgenv().UnitsToFind .. "\n" .. 
